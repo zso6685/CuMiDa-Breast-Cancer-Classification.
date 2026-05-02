@@ -65,5 +65,5 @@ It is however important to note that depending on the business or entity what wo
 # Repository Structure Explanation
 Multiple google colabs showing changes and improvements. Copy of Demo file, SVM file is the most recent.
 # Requirements
-requirements.doc
+requirements.docx
 
