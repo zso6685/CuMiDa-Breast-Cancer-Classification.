@@ -58,7 +58,7 @@ It is however important to note that depending on the business or entity what wo
 - Improve or add more data especially the samples.
 - Check on the model performances on new data to verify that performance is the same or better.
 # How to Run
-- Install dependencies such as pandas numpy and all required libraries.
+- Install python or use google colab, then install the required libraries.
 - Run preprocessing after stratified split to avoid the models have memory of the dataset as this causes the models to have perfect performance which could be a problem.
 - Train model
 - Evaluate results using confusion matrix to see what was classified correctly and which ones were misclassified.
